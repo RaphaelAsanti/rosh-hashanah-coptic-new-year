@@ -7,7 +7,7 @@ This directory contains a personal contextual note related to the calendrical sy
 - **[index.html](index.html)**  
   Mobile‑friendly, SEO‑optimized HTML page containing the personal note.
 
-- **[personal-note.pdf](personal-note.pdf)**  
+- **[calendar-concurrence.pdf](calendar-concurrence.pdf)**  
   Optional PDF version of the note.
 
 - **Full Ebook — The End of Time**  
