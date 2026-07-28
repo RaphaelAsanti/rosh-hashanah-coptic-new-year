@@ -1,2 +1,25 @@
-# rosh-hashanah-coptic-new-year
-Rosh Hashanah and Coptic New Year Calendar Concurrence 2026
+# Personal Note — Coptic New Year and Rosh Hashanah
+
+This directory contains a personal contextual note related to the calendrical symbolism referenced in *The End of Time*.
+
+## Files
+
+- **[index.html](index.html)**  
+  Mobile‑friendly, SEO‑optimized HTML page containing the personal note.
+
+- **[personal-note.pdf](personal-note.pdf)**  
+  Optional PDF version of the note.
+
+- **Full Ebook — The End of Time**  
+  [Download the complete book (PDF)](../the-end-of-time.pdf)
+
+## Summary
+
+This note documents a calendrical convergence occurring this year:  
+**Coptic New Year (Nayrouz)** and **Rosh Hashanah** fall on the same civil date.
+
+In Coptic tradition, Nayrouz symbolizes *resurrection* — the renewal of life and the triumph of God over death.  
+In Jewish tradition, Rosh Hashanah symbolizes *judgment* — the opening of the books and the accounting of deeds.
+
+The purpose of this note is simply to record that **resurrection symbolism and judgment symbolism coincide this year**, and to explain why this overlap is relevant to the thematic architecture of the ebook.
+
