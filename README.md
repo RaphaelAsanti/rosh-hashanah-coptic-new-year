@@ -4,7 +4,7 @@ This directory contains a personal contextual note related to the calendrical sy
 
 ## Files
 
-- **[index.html](index.html)**  
+- **[[index.html]](https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/)[(index.html)](https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/)**  
   Mobile‑friendly, SEO‑optimized HTML page containing the personal note.
 
 - **[calendar-concurrence.pdf](calendar-concurrence.pdf)**  
