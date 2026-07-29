@@ -33,3 +33,6 @@ In Jewish tradition, Rosh Hashanah symbolizes *judgment* — the opening of the 
 
 The purpose of this note is simply to record that **resurrection symbolism and judgment symbolism coincide this year**, and to explain why this overlap is relevant to the thematic architecture of the ebook.
 
+---
+
+Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
