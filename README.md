@@ -35,4 +35,10 @@ The purpose of this note is simply to record that **resurrection symbolism and j
 
 ---
 
-Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/
+
