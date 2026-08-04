@@ -2,6 +2,7 @@
 
 A concise structural overview of how the concurrence of **Rosh Hashanah** and **Coptic New Year (Nayrouz)** on the same civil date expresses the **nun–shin** pattern used throughout the symbolic framework.  
 This page outlines the renewal–judgment pairing and its relevance to the broader narrative structure.
+
 ---
 
 ### Files
