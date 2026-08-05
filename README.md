@@ -1,7 +1,8 @@
-# Rosh Hashanah + Coptic New Year = Nun Shin
+# Rosh Hashanah + Coptic New Year = Nun Shin and Tav He
 
-A concise structural overview of how the concurrence of **Rosh Hashanah** and **Coptic New Year (Nayrouz)** on the same civil date expresses the **nun–shin** pattern used throughout the symbolic framework.  
-This page outlines the renewal–judgment pairing and its relevance to the broader narrative structure.
+A concise structural overview of how the concurrence of Rosh Hashanah and Coptic New Year (Nayrouz) on the same civil date expresses both the nun–shin and tav–he patterns used throughout the symbolic framework.
+
+This page outlines the renewal–judgment pairing and the completion–opening pairing, and their relevance to the broader narrative structure.
 
 ---
 
