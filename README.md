@@ -1,47 +1,74 @@
 # Rosh Hashanah + Coptic New Year = Nun Shin and Tav He
 
-A concise structural overview of how the concurrence of Rosh Hashanah and Coptic New Year (Nayrouz) on the same civil date expresses both the nun–shin and tav–he patterns used throughout the symbolic framework.
+A concise structural overview of how the concurrence of Rosh Hashanah and the Coptic New Year (Nayrouz) on the same civil date expresses the "nun–shin" and "tav–he" patterns used throughout this project's symbolic analysis. This page outlines the renewal–judgment pairing and the completion–opening pairing, and their relevance to the broader narrative structure.
 
-This page outlines the renewal–judgment pairing and the completion–opening pairing, and their relevance to the broader narrative structure.
-
----
-
-### Files
-index.html — Primary page (HTML)  
-https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/
-
-### License
-https://github.com/raphaelasanti/rosh-hashanah-coptic-new-year/blob/main/LICENSE
+[View the live page →](https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/)
 
 ---
 
-### Author
-Raphael E. Asanti  
-July 2026
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nd/4.0/)
+[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/)
 
 ---
 
-### Related Pages
-Main Index  
-https://raphaelasanti.github.io/
+## Table of contents
+- [Overview](#overview)
+- [Background & purpose](#background--purpose)
+- [Files](#files)
+- [How to read this analysis](#how-to-read-this-analysis)
+- [Author & license](#author--license)
+- [Donate](#donate)
+- [Contribute](#contribute)
+- [Free ebook](#free-ebook)
+- [Contact / citation](#contact--citation)
 
 ---
 
-### Donate
+## Overview
+This repository hosts a short analytical page that compares ritual and symbolic correspondences when Rosh Hashanah and the Coptic New Year occur on the same civil date. The analysis focuses on two paired motifs:
+- nun–shin: renewal and judgment
+- tav–he: completion and opening
+
+## Background & purpose
+The goal is to provide a compact, accessible interpretation of overlapping liturgical calendars and how their overlapping dates can be read as structural motifs in broader narrative or theological contexts.
+
+## Files
+- index.html — Primary page (view in browser):  
+  https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/
+- LICENSE — Creative Commons Attribution‑NoDerivatives 4.0:  
+  http://creativecommons.org/licenses/by-nd/4.0/  
+  https://github.com/raphaelasanti/rosh-hashanah-coptic-new-year/blob/main/LICENSE
+
+## How to read this analysis
+- Read the Overview to get the core thesis.
+- Use the paired motifs (renewal–judgment and completion–opening) as lenses while reading.
+- Use your browser Find (Ctrl/Cmd+F) to jump to terms like "nun", "shin", "tav", and "he".
+
+## Author & license
+Raphael E. Asanti — July 2026  
+License: Creative Commons Attribution‑NoDerivatives 4.0 International (CC BY‑ND 4.0). See LICENSE in this repository or http://creativecommons.org/licenses/by-nd/4.0/.
+
+## Donate
 This work is sustained entirely by voluntary contributions.
 
-**Cash App**  
-https://cash.app/$phirunltd
+- Cash App: https://cash.app/$phirunltd  
+- Gumroad (optional donation when downloading): https://phirun4.gumroad.com/l/zsmzjh
 
-**Gumroad (optional donation when downloading)**  
-https://phirun4.gumroad.com/l/zsmzjh
+## Contribute
+Thank you for your interest. Ways to contribute:
+- Share the public page to increase reach.
+- Open an issue for typos or suggested clarifications.
+- Send a pull request for editorial fixes to README or index.html.
 
-### Contribute
-Share the public page on your social media to extend its reach:  
-https://raphaelasanti.github.io/rosh-hashanah-coptic-new-year/
+When contributing, please note the CC BY‑ND license: redistribution and sharing are allowed, but derivative works are not permitted without separate permission.
 
----
-
-### Free Ebook
+## Free ebook
 If you prefer not to donate, the same ebook is available here:  
 https://github.com/raphaelasanti/the-end-of-time/
+
+## Contact / citation
+- Website: https://raphaelasanti.github.io/  
+- For citation: include author, title, URL, and accessed date.
+
+---
+Last updated: July 2026
