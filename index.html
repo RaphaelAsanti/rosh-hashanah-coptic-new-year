@@ -79,7 +79,30 @@
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(212,175,55,0.4);
 }
+    .video-box {
+      position: relative;
+      width: 100%;
+      max-width: 560px;
+      margin: 25px auto;
+      background: var(--card-bg);
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(212,175,55,0.4);
+      overflow: hidden;
+    }
 
+    .video-box::before {
+      content: "";
+      display: block;
+      padding-top: 56.25%;
+    }
+
+    .video-box iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
     </style>
     
 </head>
@@ -216,6 +239,19 @@ The August 27–28, 2026, deep partial lunar eclipse will be visible across the 
 </ul>
 <p>
 Large earthquakes have been ongoing.</p>
+<h2>The Sixth Seal</h2>
+<p>Although Chris Cornell ended his life early - hanging in a bathroom and the reason is unknown - this is a song and video I like.  I think it's prophetic.
+        <section aria-labelledby="video-1">
+      <h2 id="video-1">Video</h2>
+      <div class="video-box" role="region" aria-label="Main video: The Finality">
+        <iframe
+          src="https://www.youtube.com/embed/3mbBbFH9fAg"
+          title="Blackhole Sun -- Soundgarden"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy"></iframe>
+      </div>
+    </section>
 <p>
     <hr>
 This page records that these alignments occur in 2026. It makes no prediction and no doctrinal claim. It simply notes that the theme described in the ebook — fish and fire, seal and breath united in one moment — appears symbolically in the calendar this year.
